@@ -1,0 +1,14 @@
+../Core/Src/lcd.c:9:6:Delay	2
+../Core/Src/lcd.c:11:6:LCD_INIT	1
+../Core/Src/lcd.c:21:6:LCD_Rst	1
+../Core/Src/lcd.c:30:6:LCD_BackLed_Control	2
+../Core/Src/lcd.c:41:6:LCD_Write_Cmd	1
+../Core/Src/lcd.c:49:6:LCD_Write_Data	1
+../Core/Src/lcd.c:57:10:LCD_Read_Data	1
+../Core/Src/lcd.c:63:6:LCD_REG_Config	1
+../Core/Src/lcd.c:232:6:LCD_OpenWindow	1
+../Core/Src/lcd.c:249:6:LCD_FillColor	2
+../Core/Src/lcd.c:264:6:LCD_Clear	1
+../Core/Src/lcd.c:276:6:LCD_DrawChar	4
+../Core/Src/lcd.c:310:6:LCD_DrawString	4
+../Core/Src/lcd.c:339:6:LCD_DrawFace	4

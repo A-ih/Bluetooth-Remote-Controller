@@ -1,0 +1,10 @@
+../Core/Src/main.c:105:6:HAL_UART_ErrorCallback	16	static
+../Core/Src/main.c:122:5:main	16	static
+../Core/Src/main.c:299:6:SystemClock_Config	72	static
+../Core/Src/main.c:339:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:372:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:405:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:501:13:MX_FSMC_Init	40	static
+../Core/Src/main.c:611:6:send_normal_data	16	static
+../Core/Src/main.c:622:6:send_photo	544	static
+../Core/Src/main.c:655:6:Error_Handler	4	static

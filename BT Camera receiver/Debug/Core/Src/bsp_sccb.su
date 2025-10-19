@@ -1,0 +1,10 @@
+../Core/Src/bsp_sccb.c:6:13:SCCB_delay	16	static
+../Core/Src/bsp_sccb.c:16:12:SCCB_Start	8	static
+../Core/Src/bsp_sccb.c:33:13:SCCB_Stop	8	static
+../Core/Src/bsp_sccb.c:46:13:SCCB_Ack	8	static
+../Core/Src/bsp_sccb.c:59:13:SCCB_NoAck	8	static
+../Core/Src/bsp_sccb.c:72:12:SCCB_WaitAck	8	static
+../Core/Src/bsp_sccb.c:90:13:SCCB_SendByte	24	static
+../Core/Src/bsp_sccb.c:110:12:SCCB_ReceiveByte	16	static
+../Core/Src/bsp_sccb.c:133:5:SCCB_WriteByte	16	static
+../Core/Src/bsp_sccb.c:154:5:SCCB_ReadByte	16	static

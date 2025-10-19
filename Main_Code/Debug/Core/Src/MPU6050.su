@@ -1,0 +1,3 @@
+../Core/Src/MPU6050.c:17:6:MPU6050_init	32	static
+../Core/Src/MPU6050.c:41:6:MPU6050_Read_Accel	48	static
+../Core/Src/MPU6050.c:56:6:MPU6050_Read_Gyro	48	static
